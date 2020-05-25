@@ -22,6 +22,7 @@ This resource was made by the developers and hackers alike! We appreciate and re
 ## Contributors
 
 - [Chandrapal](https://github.com/Chan9390)
+- [Subhash Thapa](https://github.com/erSubhashThapa)
 - [Madhu Akula](https://www.github.com/madhuakula)
 - [Derick Thomson](https://www.facebook.com/derick.thomson) (Image)
 - [Aleksandar Todorović](https://github.com/aleksandar-todorovic)
